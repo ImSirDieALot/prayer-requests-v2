@@ -2,3 +2,5 @@
 /ui/node_modules
 /api/.env
 /ui/.env
+
+.env
